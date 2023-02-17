@@ -1,0 +1,26 @@
+<pl.edu.pw.mini.charuzaalepiankal.ZPOIFproject.ingredient__holder.Fridge>
+  <ingredients>
+    <string>pasta</string>
+    <string>tomato</string>
+    <string>cheese</string>
+    <string>cottage cheese</string>
+  </ingredients>
+  <expirationDates>
+    <entry>
+      <string>pasta</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>tomato</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>cottage cheese</string>
+      <local-date>2023-01-29</local-date>
+    </entry>
+    <entry>
+      <string>cheese</string>
+      <local-date>2023-01-27</local-date>
+    </entry>
+  </expirationDates>
+</pl.edu.pw.mini.charuzaalepiankal.ZPOIFproject.ingredient__holder.Fridge>

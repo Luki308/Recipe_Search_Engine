@@ -1,1 +1,1 @@
-# Recipe_Search_Engine
+Link do używanego przez nas API: https://spoonacular.com/food-api

@@ -1,0 +1,16 @@
+<pl.edu.pw.mini.charuzaalepiankal.ZPOIFproject.ingredient__holder.Fridge>
+  <ingredients>
+    <string>pasta</string>
+    <string>tomato</string>
+  </ingredients>
+  <expirationDates>
+    <entry>
+      <string>pasta</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>tomato</string>
+      <null/>
+    </entry>
+  </expirationDates>
+</pl.edu.pw.mini.charuzaalepiankal.ZPOIFproject.ingredient__holder.Fridge>

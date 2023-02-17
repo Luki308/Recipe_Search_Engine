@@ -1,0 +1,348 @@
+{
+  "instructions": "\u003col\u003e\u003cli\u003eBring a large pot of water to a boil. Saute about 1 teaspoon of dried red pepper in a 3 tbsp. olive oil. Add 5 cloves fresh minced garlic, 2 tbsp.\u003c/li\u003e\u003cli\u003eFresh Italian parsley, minced.\u003c/li\u003e\u003cli\u003eWhen these ingredients are not, but not smoking, add 1 can tomatoes, chopped. (I like Pomi tomatoes which comes in a box). Stir, cover and cook untilthe sauce i heated. Cook the Penne in salted boiling water. Cook until al dante. Drain and add to sauce. Mix throughly Just before serving, add some coarsely chopped fresh basil and a little more parsley. Serve immediately.\u003c/li\u003e\u003c/ol\u003e",
+  "sustainable": false,
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "ingredients": [
+            {
+              "image": "water.png",
+              "localizedName": "water",
+              "name": "water",
+              "id": 14412
+            }
+          ],
+          "equipment": [
+            {
+              "image": "stock-pot.jpg",
+              "localizedName": "pot",
+              "name": "pot",
+              "id": 404752
+            }
+          ],
+          "step": "Bring a large pot of water to a boil."
+        },
+        {
+          "number": 2,
+          "ingredients": [
+            {
+              "image": "red-pepper-flakes.jpg",
+              "localizedName": "red pepper flakes",
+              "name": "red pepper flakes",
+              "id": 1032009
+            },
+            {
+              "image": "olive-oil.jpg",
+              "localizedName": "olive oil",
+              "name": "olive oil",
+              "id": 4053
+            }
+          ],
+          "equipment": [],
+          "step": "Saute about 1 teaspoon of dried red pepper in a 3 tbsp. olive oil."
+        },
+        {
+          "number": 3,
+          "ingredients": [
+            {
+              "image": "parsley.jpg",
+              "localizedName": "fresh flat leaf parsley",
+              "name": "fresh flat leaf parsley",
+              "id": 10211297
+            },
+            {
+              "image": "garlic.png",
+              "localizedName": "minced garlic",
+              "name": "minced garlic",
+              "id": 0
+            },
+            {
+              "image": "tomato.png",
+              "localizedName": "tomato",
+              "name": "tomato",
+              "id": 11529
+            },
+            {
+              "image": "cloves.jpg",
+              "localizedName": "clove",
+              "name": "clove",
+              "id": 1002011
+            },
+            {
+              "image": "penne-pasta.jpg",
+              "localizedName": "penne",
+              "name": "penne",
+              "id": 11120420
+            },
+            {
+              "image": "",
+              "localizedName": "sauce",
+              "name": "sauce",
+              "id": 0
+            },
+            {
+              "image": "water.png",
+              "localizedName": "water",
+              "name": "water",
+              "id": 14412
+            }
+          ],
+          "equipment": [],
+          "step": "Add 5 cloves fresh minced garlic, 2 tbsp.Fresh Italian parsley, minced.When these ingredients are not, but not smoking, add 1 can tomatoes, chopped. (I like Pomi tomatoes which comes in a box). Stir, cover and cook untilthe sauce i heated. Cook the Penne in salted boiling water. Cook until al dante."
+        },
+        {
+          "number": 4,
+          "ingredients": [
+            {
+              "image": "",
+              "localizedName": "sauce",
+              "name": "sauce",
+              "id": 0
+            }
+          ],
+          "equipment": [],
+          "step": "Drain and add to sauce."
+        },
+        {
+          "number": 5,
+          "ingredients": [
+            {
+              "image": "fresh-basil.jpg",
+              "localizedName": "fresh basil",
+              "name": "fresh basil",
+              "id": 2044
+            },
+            {
+              "image": "parsley.jpg",
+              "localizedName": "parsley",
+              "name": "parsley",
+              "id": 11297
+            }
+          ],
+          "equipment": [],
+          "step": "Mix throughly Just before serving, add some coarsely chopped fresh basil and a little more parsley."
+        },
+        {
+          "number": 6,
+          "ingredients": [],
+          "equipment": [],
+          "step": "Serve immediately."
+        }
+      ]
+    }
+  ],
+  "glutenFree": false,
+  "veryPopular": false,
+  "healthScore": 92,
+  "title": "Penne Arrabiata",
+  "diets": [
+    "dairy free",
+    "lacto ovo vegetarian",
+    "vegan"
+  ],
+  "aggregateLikes": 2,
+  "creditsText": "foodista.com",
+  "readyInMinutes": 45,
+  "sourceUrl": "http://www.foodista.com/recipe/2Y82DVJR/penne-arrabiata",
+  "dairyFree": true,
+  "servings": 4,
+  "vegetarian": true,
+  "id": 655573,
+  "preparationMinutes": -1,
+  "imageType": "jpg",
+  "winePairing": {
+    "productMatches": [],
+    "pairingText": "",
+    "pairedWines": []
+  },
+  "summary": "If you have about \u003cb\u003e45 minutes\u003c/b\u003e to spend in the kitchen, Penne Arrabiata might be an outstanding \u003cb\u003edairy free, lacto ovo vegetarian, and vegan\u003c/b\u003e recipe to try. One serving contains \u003cb\u003e466 calories\u003c/b\u003e, \u003cb\u003e15g of protein\u003c/b\u003e, and \u003cb\u003e9g of fat\u003c/b\u003e. For \u003cb\u003e$1.05 per serving\u003c/b\u003e, you get a main course that serves 4. A mixture of tomato, peppers, pkt penne, and a handful of other ingredients are all it takes to make this recipe so scrumptious. 2 people found this recipe to be tasty and satisfying. It is brought to you by Foodista. Taking all factors into account, this recipe \u003cb\u003eearns a spoonacular score of 94%\u003c/b\u003e, which is awesome. If you like this recipe, take a look at these similar recipes: \u003ca href\u003d\"https://spoonacular.com/recipes/penne-arrabiata-1364589\"\u003ePenne Arrabiata\u003c/a\u003e, \u003ca href\u003d\"https://spoonacular.com/recipes/penne-arrabiata-1511023\"\u003ePenne Arrabiata\u003c/a\u003e, and \u003ca href\u003d\"https://spoonacular.com/recipes/penne-arrabiata-1223947\"\u003ePenne Arrabiata\u003c/a\u003e.",
+  "cookingMinutes": -1,
+  "image": "https://spoonacular.com/recipeImages/655573-556x370.jpg",
+  "veryHealthy": true,
+  "vegan": true,
+  "cheap": false,
+  "extendedIngredients": [
+    {
+      "originalName": "can whole tomato, chopped",
+      "image": "tomatoes-canned.png",
+      "amount": 14.5,
+      "unit": "oz",
+      "measures": {
+        "metric": {
+          "amount": 411.068,
+          "unitShort": "g",
+          "unitLong": "grams"
+        },
+        "us": {
+          "amount": 14.5,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        }
+      },
+      "nameClean": "canned whole tomatoes",
+      "original": "1 can (14 1/2 oz) whole tomato, chopped",
+      "meta": [
+        "whole",
+        "chopped",
+        "canned"
+      ],
+      "name": "tomato",
+      "id": 10011531,
+      "aisle": "Canned and Jarred",
+      "consistency": "SOLID"
+    },
+    {
+      "originalName": "parsley, fresh, minced",
+      "image": "parsley.jpg",
+      "amount": 3,
+      "unit": "tablespoons",
+      "measures": {
+        "metric": {
+          "amount": 3,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "us": {
+          "amount": 3,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      },
+      "nameClean": "fresh parsley",
+      "original": "3 tablespoons parsley, fresh, minced",
+      "meta": [
+        "fresh",
+        "minced"
+      ],
+      "name": "parsley",
+      "id": 10511297,
+      "aisle": "Produce",
+      "consistency": "SOLID"
+    },
+    {
+      "originalName": "garlic, minced",
+      "image": "garlic.png",
+      "amount": 2,
+      "unit": "Cloves",
+      "measures": {
+        "metric": {
+          "amount": 2,
+          "unitShort": "Cloves",
+          "unitLong": "Cloves"
+        },
+        "us": {
+          "amount": 2,
+          "unitShort": "Cloves",
+          "unitLong": "Cloves"
+        }
+      },
+      "nameClean": "garlic",
+      "original": "2 Cloves garlic, minced",
+      "meta": [
+        "minced"
+      ],
+      "name": "garlic",
+      "id": 11215,
+      "aisle": "Produce",
+      "consistency": "SOLID"
+    },
+    {
+      "originalName": "Olive oil",
+      "image": "olive-oil.jpg",
+      "amount": 2,
+      "unit": "tablespoons",
+      "measures": {
+        "metric": {
+          "amount": 2,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "us": {
+          "amount": 2,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      },
+      "nameClean": "olive oil",
+      "original": "2 tablespoons Olive oil",
+      "meta": [],
+      "name": "olive oil",
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "consistency": "LIQUID"
+    },
+    {
+      "originalName": "pkt Penne (pasta quills)",
+      "image": "penne-pasta.jpg",
+      "amount": 14,
+      "unit": "oz",
+      "measures": {
+        "metric": {
+          "amount": 396.893,
+          "unitShort": "g",
+          "unitLong": "grams"
+        },
+        "us": {
+          "amount": 14,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        }
+      },
+      "nameClean": "penne",
+      "original": "1 pkt (14 oz) Penne (pasta quills)",
+      "meta": [
+        "(pasta quills)"
+      ],
+      "name": "pkt penne",
+      "id": 11120420,
+      "aisle": "Pasta and Rice",
+      "consistency": "SOLID"
+    },
+    {
+      "originalName": "dried red peppers",
+      "image": "red-pepper.jpg",
+      "amount": 2,
+      "unit": "",
+      "measures": {
+        "metric": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "us": {
+          "amount": 2,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      },
+      "nameClean": "red pepper",
+      "original": "2 dried red peppers",
+      "meta": [
+        "dried",
+        "red"
+      ],
+      "name": "peppers",
+      "id": 11821,
+      "aisle": "Produce",
+      "consistency": "SOLID"
+    }
+  ],
+  "dishTypes": [
+    "side dish",
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "gaps": "no",
+  "cuisines": [],
+  "lowFodmap": false,
+  "weightWatcherSmartPoints": 12,
+  "occasions": [],
+  "pricePerServing": 104.84,
+  "sourceName": "foodista.com",
+  "spoonacularSourceUrl": "https://spoonacular.com/penne-arrabiata-655573"
+}
